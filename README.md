@@ -1,4 +1,5 @@
 # Motlapz-Tech-School
+first year web development project
 ## Project goals and objectives
 Website Proposal for Motlapz Tech School Hub
 
