@@ -293,4 +293,20 @@ This website will position GreenBite Organic Foods as a trusted, modern brand an
 1. WooCommerce. (2025). _E-commerce best practices for food businesses_.
 2. Nielsen. (2024). _South African Online Grocery Report_.
 3. Google Analytics. (2025). _KPIs for Retail Websites_.
+   
 
+Part 2 Updates
+- Added CSS styling for desktop and mobile
+- Improved navigation and layout
+- Fixed issues from Part 1 feedback
+- Website tested on Chrome, Edge and phone
+
+Changelog
+- Part 2: Added responsive design, DeepX effects, validated HTML/CSS
+- Part 1 Feedback Fixes: Fixed broken links, added alt text to images, fixed heading structure
+- Part 1: Initial website created
+
+References
+- W3Schools (2025) CSS Flexbox and Grid
+- Mozilla Developer Network (2025) CSS Media Queries
+- W3Schools (2025) CSS Responsive Design
